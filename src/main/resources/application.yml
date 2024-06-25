@@ -1,0 +1,7 @@
+spring:
+  ai:
+    openai:
+      api-key: Here goes your OpenAI key
+      chat:
+        options:
+          model: gpt-4
